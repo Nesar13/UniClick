@@ -1,5 +1,7 @@
 # UniClick
-![alt text](https://github.com/Nesar13/UniClick/blob/master/UniClick.png "Uniclick Logo")
+
+<img src="https://github.com/Nesar13/UniClick/blob/master/UniClick.png" alt= "Uniclick Logo" wdith="250" height="250">
+
 
 ##Mission Statement
 
