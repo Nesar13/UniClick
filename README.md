@@ -1,5 +1,5 @@
 # UniClick
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Uniclick Logo")
+![alt text](https://github.com/Nesar13/UniClick/blob/master/UniClick.png "Uniclick Logo")
 
 ##Mission Statement
 
