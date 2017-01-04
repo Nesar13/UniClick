@@ -1,4 +1,4 @@
-package nesar.loginregister;
+package nesar.uniclick;
 
 /**
  * Created by Nesar Ahmed on 1/2/2017.

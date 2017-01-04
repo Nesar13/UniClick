@@ -4,7 +4,7 @@ android {
     compileSdkVersion 22
     buildToolsVersion "24.0.3"
     defaultConfig {
-        applicationId "nesar.loginregister"
+        applicationId "nesar.uniclick"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1

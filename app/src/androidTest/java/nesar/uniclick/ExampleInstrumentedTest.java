@@ -1,4 +1,4 @@
-package nesar.loginregister;
+package nesar.uniclick;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("nesar.loginregister", appContext.getPackageName());
+        assertEquals("nesar.uniclick", appContext.getPackageName());
     }
 }

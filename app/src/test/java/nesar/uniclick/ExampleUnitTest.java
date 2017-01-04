@@ -1,4 +1,4 @@
-package nesar.loginregister;
+package nesar.uniclick;
 
 import org.junit.Test;
 
